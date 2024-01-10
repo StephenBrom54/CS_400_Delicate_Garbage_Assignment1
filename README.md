@@ -4,7 +4,12 @@ The Team: Ben Albright, Stephen Brom, Danny Cannon, & Adam Elias
 1.  The product is a software application that tracks the state and inventory of a certain classification of spaces (classrooms) in a certain classification of organization (school/college/university). It allows users to easily input feedback and contribute to the inventory and state-tracking functionality so administrators can ensure the facilities are kept in a standardized and high-quality state with sufficient supplies.
  
 2.  Possible names of the product:
-     - Classy, Class Condition, Class State, Class Stash, State of Class, Classroom Upkeeper, Class Upkeep, Upkeep-a-Class, UpTeach, ClassKeep
+     - Classy
+     - Class Stash
+     - State of Class
+     - Classroom Upkeeper
+     - UpTeach
+     - ClassKeep
  
 3.  Who are the potential customers, end users or buyers
      - Potential customers: Educational organizations
