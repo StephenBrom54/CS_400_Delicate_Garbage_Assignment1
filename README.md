@@ -16,8 +16,8 @@ The Team: Ben Albright, Stephen Brom, Danny Cannon, & Adam Elias
      - End users: Instructors, administrators, and facilities directors of education organizations
  
 4. Potential Features and Functions:
-     - A functional perspective of all classrooms
-     - Classroom Condition: visualized on some kind of meaningful scale or spectrum
+     - A functional perspective of all classrooms.
+     - Classroom Condition: visualized on some kind of meaningful scale or spectrum.
      - Feedback: the ability for room users to provide feedback or notifications about classroom conditions, needs, inventory, etc. This would be functionally different/easier/better than simply submitting a ticket to a helpdesk such as IT, which may not be responsible for classroom aesthetics or inventory.
      - QR Codes: a user could scan a QR code that could take them to an input form, which could be tied to a list.
      - Inventory Control:
