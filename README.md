@@ -1,9 +1,9 @@
 # CS-400 Assignment 1: Delicate Garbage
 The Team: Ben Albright, Stephen Brom, Danny Cannon, & Adam Elias
 
-1.  The product is a software application that tracks the state and inventory of a certain classification of spaces (classrooms) in a certain classification of organization (school/college/university). It allows users to easily input feedback and contribute to the inventory and state-tracking functionality so administrators can ensure the facilities are kept in a standardized and high-quality state with sufficient supplies.
+1.  Overview: The product is a software application that tracks the state and inventory of a certain classification of spaces (classrooms) in a certain classification of organization (school/college/university). It allows users to easily input feedback and contribute to the inventory and state-tracking functionality so administrators can ensure the facilities are kept in a standardized and high-quality state with sufficient supplies.
  
-2.  Possible names of the product:
+2.  Possible Names:
      - Classy
      - Class Stash
      - State of Class
@@ -11,11 +11,11 @@ The Team: Ben Albright, Stephen Brom, Danny Cannon, & Adam Elias
      - UpTeach
      - ClassKeep
  
-3.  Potential customers, end users, or buyers:
+3.  Potential Customers, End Users, or Buyers:
      - Potential customers/buyers: Educational organizations
      - End users: Instructors, administrators, and facilities directors of education organizations
  
-4. Potential features and functions:
+4. Potential Features and Functions:
      - A functional perspective of all classrooms
      - Classroom Condition: visualized on some kind of meaningful scale or spectrum
      - Feedback: the ability for room users to provide feedback or notifications about classroom conditions, needs, inventory, etc. This would be functionally different/easier/better than simply submitting a ticket to a helpdesk such as IT, which may not be responsible for classroom aesthetics or inventory.
