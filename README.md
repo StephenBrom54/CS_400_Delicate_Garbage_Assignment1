@@ -16,8 +16,8 @@ The Team: Ben Albright, Stephen Brom, Danny Cannon, & Adam Elias
      - Feedback: the ability for room users to provide feedback or notifications about classroom conditions, needs, inventory, etc. This would be functionally different/easier/better than simply submitting a ticket to a helpdesk such as IT, which may not be responsible for classroom aesthetics or inventory.
      - QR Codes: a user could scan a QR code that could take them to an input form, which could be tied to a list.
      - Inventory Control:
-          > Inventory list for each classroom
-          > Might also treat classroom condition as an inventory item with a specific range of string inputs that would correspond to a visual scale of the classroom's overall condition. For example, if the "whiteboard condition" is 2 out of 5, the scale shows red for that item.
+          - Inventory list for each classroom
+          - Might also treat classroom condition as an inventory item with a specific range of string inputs that would correspond to a visual scale of the classroom's overall condition. For example, if the "whiteboard condition" is 2 out of 5, the scale shows red for that item.
      - User Interface: info surfaced in a sleek dashboard, which can be viewed per room.
 
 **Product Vision Statement: For school administrators and instructors who need an ideal way to monitor their classroom setting, Classy is a software that provides a comprehensive platform to monitor classroom state and inventory while allowing users to submit feedback about classroom needs through a user-friendly interface. Unlike products such as Sortly and Skyward, Classy goes beyond simple inventory management by reflecting the quality of assets and the classrooms themselves, leading to optimal classroom learning and student success.**
