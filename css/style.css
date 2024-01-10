@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    text-align: center;
+}
+
+header {
+    background: #752936;
+    color: #fff;
+    padding: 1.5em 0;
+    text-align: center;
+}
+
+
+.logo{
+    width: 200px;
+    margin-right: 10px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+section {
+    padding: 2em;
+}
+
+section#video-pitch {
+    background-color: #f4f4f4;
+}
+
+section#product-description, section#vision{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+section#features ul {
+    padding: 0;
+    text-align: center;
+    list-style-position: inside;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.team-member {
+    margin-bottom: 1em;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.team-member img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background: #333;
+    color: white;
+}
