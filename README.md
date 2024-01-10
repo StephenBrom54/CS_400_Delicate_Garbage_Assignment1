@@ -11,9 +11,9 @@ The Team: Ben Albright, Stephen Brom, Danny Cannon, & Adam Elias
      - UpTeach
      - ClassKeep
  
-3.  Who are the potential customers, end users or buyers
-     - Potential customers: Educational organizations
-     - End users/buyers: Instructors, administrators, and facilities directors of education organizations
+3.  Potential customers, end users, or buyers:
+     - Potential customers/buyers: Educational organizations
+     - End users: Instructors, administrators, and facilities directors of education organizations
  
 4. Potential features and functions:
      - A functional perspective of all classrooms
