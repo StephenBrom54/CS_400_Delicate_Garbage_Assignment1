@@ -32,7 +32,7 @@ section#video-pitch {
     background-color: #f4f4f4;
 }
 
-section#product-description, section#vision{
+section#product-description, section#vision, section#prototype{
     max-width: 800px;
     margin: 0 auto;
 }
