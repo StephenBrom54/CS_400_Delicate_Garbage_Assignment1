@@ -86,3 +86,47 @@ footer {
     background: #333;
     color: white;
 }
+
+.classroom {
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.classroom.good {
+    background-color: rgb(56, 165, 56);
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.classroom.warning {
+    background-color: rgb(241, 241, 55);
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.classroom.bad {
+    background-color: rgb(202, 34, 34);
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.notes-box {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-top: 10px;
+    display: none; /* start off hidden */
+}
