@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-project---cs400---assignment-3",
+  "version": "1.0.0",
+  "description": "CS400 Assignment 3 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Delicate Garbage",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "jsdom": "^24.0.0"
+  }
+}
